@@ -1,8 +1,8 @@
-# Black Friday & Cyber Monday Deals 2025 — Developers & Designers
+# Black Friday & Cyber Monday Deals 2025 - Developers & Designers
 
 The ultimate **Black Friday** and **Cyber Monday 2025** Deals collection for developers, designers, and makers.
 
-This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** — all curated to help you **build faster, design better, and save bigger** this season.
+This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** - all curated to help you **build faster, design better, and save bigger** this season.
 
 > **Total Deals Count**: 15+
 
@@ -37,7 +37,7 @@ Found a great **Black Friday 2025** or **Cyber Monday 2025** deal?  Add it here 
 
 **Include:** the product link, coupon (if any), and offer validity dates.
 
-> For Everyone Else: 👉 **[Submit a Deal Form](#)**  
+> For Everyone Else: 👉 **[Submit a Deal Form](https://forms.gle/UFG576VMFPeBGzM3A)**  
 
 Our team reviews and publishes valid submissions within **24–48 hours**.
 
