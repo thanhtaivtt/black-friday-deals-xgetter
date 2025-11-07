@@ -86,6 +86,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**NextAdmin**](https://nextadmin.co/) | Next.js admin dashboard template with 200+ components and layouts. | 30% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**NextMerce**](https://nextmerce.com/) | Next.js eCommerce template with Sanity CMS for modern online stores. | 30% OFF All Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Notion Backups**](https://notionbackups.com/) | Easily back up and restore your Notion workspaces. | 25% off of all yearly plans (Coupon: `NOTIONBACKUPS25`) | Nov 20 – Dec 4, 2025 |
+| [**React PDF**](https://www.react-pdf.dev/) | React PDF is a powerful PDF viewer for React apps that supports keyword highlights, programmatic control and customization. | 25% off Developer License (Coupon: `BFCMDEV25`) & 40% off Organization License (Coupon: `BFCMORG25`) | Nov 17 – Dec 1, 2025 |
 
 ---
 
@@ -185,4 +186,5 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
