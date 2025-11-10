@@ -83,6 +83,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 |------|--------------|--------------|-----------|
 | [**SaaSBold**](https://saasbold.com/) | Next.js SaaS boilerplate with built-in auth, billing, and dashboard templates. | 40% OFF + Free AI Starter Kit (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**AI Starter Kit**](https://aistarterkit.dev/) | Next.js + OpenAI starter to build AI apps fast with ready-made chat and auth. | 30% OFF or Free with SaaSBold (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**DevWorkspace Pro**](https://devworkspacepro.com) | Easily build Docker-powered web apps. | 40% OFF All Plans (Coupon: `BLACKFRIDAY40OFF`) | Nov 10 – Dec 10, 2025 |
 | [**NextAdmin**](https://nextadmin.co/) | Next.js admin dashboard template with 200+ components and layouts. | 30% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**NextMerce**](https://nextmerce.com/) | Next.js eCommerce template with Sanity CMS for modern online stores. | 30% OFF All Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Notion Backups**](https://notionbackups.com/) | Easily back up and restore your Notion workspaces. | 25% off of all yearly plans (Coupon: `NOTIONBACKUPS25`) | Nov 20 – Dec 4, 2025 |
@@ -199,6 +200,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
