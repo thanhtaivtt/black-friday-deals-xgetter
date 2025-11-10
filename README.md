@@ -87,6 +87,10 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**NextMerce**](https://nextmerce.com/) | Next.js eCommerce template with Sanity CMS for modern online stores. | 30% OFF All Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Notion Backups**](https://notionbackups.com/) | Easily back up and restore your Notion workspaces. | 25% off of all yearly plans (Coupon: `NOTIONBACKUPS25`) | Nov 20 – Dec 4, 2025 |
 | [**React PDF**](https://www.react-pdf.dev/) | React PDF is a powerful PDF viewer for React apps that supports keyword highlights, programmatic control and customization. | 25% off Developer License (Coupon: `BFCMDEV25`) & 40% off Organization License (Coupon: `BFCMORG25`) | Nov 17 – Dec 1, 2025 |
+| [**WebsiteVoice**](https://websitevoice.com/) | Text-to-speech widget that lets visitors listen to website content with a simple play button—easy to add with one line of JS. | 20% OFF All Plans (Coupon: `VOICE20`) | Nov 1 – Dec 4, 2025 |
+| [**StatusGator**](https://statusgator.com/) | Aggregates and monitors the status of cloud services in one dashboard, tracking outages and maintenance in real time with alerts and customizable status pages. | 20% OFF Monthly and Annual Starter Plans (Coupon: `BLACKFRIDAY2025`) | Nov 2 – Dec 2, 2025 |
+| [**Dux-Soup**](https://www.dux-soup.com/black-friday-2025) | LinkedIn automation tool that helps you generate leads, engage prospects, and manage outreach efficiently. | 25% OFF All Purchases Site-wide (Coupon: `BLCKFRDYDUX25`) | Nov 10 – Nov 30, 2025 |
+
 
 ---
 
@@ -110,7 +114,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 ### 📈 Marketing & SEO Tools
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| **Product Name** | Example: SEO, analytics, or marketing automation tool | **XX% OFF** — Code: `COUPONCODE` | Nov 25 – Dec 2 2025 |
+| [**MailBluster**](https://mailbluster.com/offer) | Scalable email marketing tool with automation, segmentation, templates, and advanced tracking for developers and marketers. | 50% OFF Upgrade Plan + Up to 30% OFF Email Sending (Coupon: `MBBFCM25`) | Nov 19 – Dec 3, 2025 |
 
 ---
 
@@ -118,6 +122,8 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
 | [**FormBold**](https://formbold.com/) | No-code form backend soultion and API for websites with integrations for Email, Slack, Notion, and more. | 40% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**My Web Audit**](https://www.mywebaudit.com/) | AI-powered website audit tool for freelancers and agencies to uncover SEO, UX, and performance issues that help close more deals. | 50% OFF All Plans | Nov 11 – Dec 3, 2025 |
+
 
 ---
 
@@ -126,13 +132,16 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 |------|--------------|--------------|-----------|
 | [**Vue School**](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Vue School offers premium video courses to help you master Vue.js, Nuxt, and modern frontend development from industry experts. | **Up to 60% OFF** | Now – Dec 2 2025 |
 | [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [**50% OFF for Two Years**](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: `2025BF50`) and [**30% OFF for One Year**](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: `2025BF30`) | Nov 12 – Dec 1, 2025 |
+| [**Practical TLS**](https://classes.pracnet.net/courses/practical-tls) | Comprehensive course with 80+ videos and 40+ labs to master SSL/TLS, cryptography, ciphers, and real-world security practices. | 83% OFF Full Course — Now $47 (Coupon: `BFCM2025`) | Nov 17 – Dec 6, 2025 |
+
+
 
 ---
 
 ### ⚙️ NoCode Tools
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| **Product Name** | Example: No-code builder or automation platform | **XX% OFF** — Code: `COUPONCODE` | Nov 25 – Dec 2 2025 |
+| [**Dorik**](https://dorik.com/) | AI-powered no-code website builder to create stunning, professional sites in minutes with built-in CMS, hosting, and templates. | 50% OFF 2-Year Plans — Get 2 Years for the Price of 1 (No coupon needed) | Nov 15 – Dec 1, 2025 |
 
 ---
 
@@ -190,6 +199,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
