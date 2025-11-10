@@ -94,6 +94,9 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
 | [**Lineicons**](https://lineicons.com/) | 30,000+ vector icons in 10 styles, optimized for modern web and app design. | 40% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**Uxcel**](https://uxcel.com/) | Interactive learning platform for UX, product, and AI design skills with 500K+ users. Learn with 5-minute lessons, real projects, and certifications. | $299 Lifetime Deal (1,000 spots only) **or** 62.5% OFF Pro Yearly Plan (Auto-applied) | Nov 24 – Dec 3, 2025 |
+
+
 
 ---
 
@@ -187,5 +190,6 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
